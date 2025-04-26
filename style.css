@@ -129,7 +129,7 @@ html,body{
         border-color:white;
     }
     .changemode{
-        justify-self:right;border:2px solid black;margin-right:4px;border-radius:10px;background-color:rgba(56,53,234,0,723);-webkit-transition:border-color 0.9s ease-in-out;display:flex;justify-content:center;align-items:center;line-height:25;
+        justify-self:right;border:2px solid black;margin-right:4px;border-radius:10px;background-color:rgba(56,53,234,0,723);-webkit-transition:border-color 0.9s ease-in-out;display:flex;justify-content:center;line-height:3;
     }
     .changemode.darkmode{
         border-color:white;
